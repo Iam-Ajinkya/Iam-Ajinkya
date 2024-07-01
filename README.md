@@ -6,10 +6,10 @@ Junior Penetration Tester
 
 As a Junior Penetration Tester, I specialize in identifying and mitigating security vulnerabilities to protect digital assets. I have hands-on experience with tools like Nmap, Metasploit, Burp Suite, and Wireshark, allowing me to conduct thorough network and web application security assessments. My background in \[Your Education or Relevant Experience\] has equipped me with a strong foundation in cybersecurity principles and practices. I am committed to continuous learning and staying updated with the latest security trends and techniques. Passionate about safeguarding systems, I aim to contribute to organizations by enhancing their security posture and preventing potential cyber threats.
 
-* 🌍  I'm based in INDIA | PUNE
-* ✉️  You can contact me at [ajinkyakamthe004@gmail.com](mailto:ajinkyakamthe004@gmail.com)
-* 🧠  I'm learning Offensive Penetration Testing
-* 🤝  I'm open to collaborating on Cyber Security Projects
+🌍  I'm based in INDIA | PUNE
+✉️  You can contact me at [ajinkyakamthe004@gmail.com](mailto:ajinkyakamthe004@gmail.com)
+🧠  I'm learning Offensive Penetration Testing
+🤝  I'm open to collaborating on Cyber Security Projects
 
 ### Skills
 
@@ -41,8 +41,8 @@ As a Junior Penetration Tester, I specialize in identifying and mitigating secur
 </p>
 
 <!---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-ajinkya&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ajinkya" /> </p>
 <div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-ajinkya&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ajinkya" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -55,4 +55,4 @@ As a Junior Penetration Tester, I specialize in identifying and mitigating secur
 <!---
 Iam-Ajinkya/Iam-Ajinkya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
