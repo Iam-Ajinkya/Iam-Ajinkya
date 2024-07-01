@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KAMYHE AJINKYA
-======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Ajinkya Kamthe</h1>
+============================================================================================
 
 Junior Penetration Tester
 -------------------------
@@ -40,6 +40,18 @@ As a Junior Penetration Tester, I specialize in identifying and mitigating secur
 </a>
 </p>
 
+<!---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-ajinkya&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ajinkya" /> </p>
+<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iam-Ajinkya&show_icons=true&locale=en&layout=compact" alt="iam-ajinkya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-ajinkya&" alt="Iam-Ajinkya" /></p>
+</div>
+--->
 <!---
 Iam-Ajinkya/Iam-Ajinkya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
