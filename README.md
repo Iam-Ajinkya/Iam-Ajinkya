@@ -1,4 +1,4 @@
-<h1> align="center">Hi 👋, I'm Ajinkya Kamthe</h1>
+<h1 align="center">Hi 👋, I'm Ajinkya Kamthe</h1>
 =========================================================================================
 
 Junior Penetration Tester
@@ -6,10 +6,10 @@ Junior Penetration Tester
 
 As a Junior Penetration Tester, I specialize in identifying and mitigating security vulnerabilities to protect digital assets. I have hands-on experience with tools like Nmap, Metasploit, Burp Suite, and Wireshark, allowing me to conduct thorough network and web application security assessments. My background in \[Your Education or Relevant Experience\] has equipped me with a strong foundation in cybersecurity principles and practices. I am committed to continuous learning and staying updated with the latest security trends and techniques. Passionate about safeguarding systems, I aim to contribute to organizations by enhancing their security posture and preventing potential cyber threats.
 
-*🌍  I'm based in INDIA | PUNE
-*✉️  You can contact me at [ajinkyakamthe004@gmail.com](mailto:ajinkyakamthe004@gmail.com)
-*🧠  I'm learning Offensive Penetration Testing
-*🤝  I'm open to collaborating on Cyber Security Projects
+<h2>🌍  I'm based in INDIA | PUNE</h2>
+<h2>✉️  You can contact me at [ajinkyakamthe004@gmail.com](mailto:ajinkyakamthe004@gmail.com)</h2>
+<h2>🧠  I'm learning Offensive Penetration Testing</h2>
+<h2>🤝  I'm open to collaborating on Cyber Security Projects</h2>
 
 ### Skills
 
