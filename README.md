@@ -10,7 +10,7 @@
     <p>🧠 I'm learning Offensive Penetration Testing</p>
     <p>🤝 I'm open to collaborating on Cyber Security Projects</p>
 
-   <h3>Skills</h3>
+   <h3>🛠 Skills</h3>
     <div class="skills" style="display: flex; justify-content: center; flex-wrap: wrap;">
         <img src="https://github.com/Iam-Ajinkya/Iam-Ajinkya/assets/165510980/ca7a1157-6e71-464a-8bf0-99ea6de6bf58" alt="Linux" style="width: 36px; height: 36px; margin: 5px;" />
         <img src="https://github.com/Iam-Ajinkya/Iam-Ajinkya/assets/165510980/c80e89d8-30ed-40a7-be54-45ac0a8ea574" alt="Kali Linux" style="width: 36px; height: 36px; margin: 5px;" />
@@ -41,7 +41,7 @@
         <h2>🔝 Top Contributed Repo:</h2>
         <img src="https://github-contributor-stats.vercel.app/api?username=Iam-Ajinkya&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="max-width: 100%; height: auto; margin: 5px;">
         <a href="https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=Iam-Ajinkya&icon=0&color=6" alt="Visitor Count" style="max-width: 100%; height: auto; margin: 5px;">
+        <p>    <img src="https://visitcount.itsvg.in/api?id=Iam-Ajinkya&icon=0&color=6" alt="Visitor Count" style="max-width: 100%; height: auto; margin: 5px;"></p>
         </a>
     </div>
 </body>
