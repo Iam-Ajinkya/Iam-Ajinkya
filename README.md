@@ -30,20 +30,24 @@
    <div class="stats">
         <h2>🌐 Socials:</h2>
         <a href="https://linkedin.com/in/ajinkyakamthe">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 82px; height: 32px; margin: 5px;">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 92px; height: 25px; margin: 5px;">
         </a>
-        <h2>📊 GitHub Stats:</h2>
-        <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-            <img src="https://github-readme-stats.vercel.app/api?username=Iam-Ajinkya&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" style="max-width: 100%; height: auto; margin: 5px;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ajinkya&theme=ambient_gradient&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%; height: auto; margin: 5px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ajinkya&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto; margin: 5px;">
-        </div>
-        <h2>🔝 Top Contributed Repo:</h2>
-        <img src="https://github-contributor-stats.vercel.app/api?username=Iam-Ajinkya&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="max-width: 100%; height: auto; margin: 5px;">
-        <a href="https://visitcount.itsvg.in">
-        <p>    <img src="https://visitcount.itsvg.in/api?id=Iam-Ajinkya&icon=0&color=6" alt="Visitor Count" style="max-width: 100%; height: auto; margin: 5px;"></p>
-        </a>
-    </div>
+        <h2 align="center">📊 GitHub Stats:</h2>
+      <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Iam-Ajinkya&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"> <br>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iam-Ajinkya&theme=dark&hide_border=false" alt="GitHub Streak Stats">  <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ajinkya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"><br>
+           <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Iam-Ajinkya&icon=0&color=6" alt="Visit Count">
+    </a>
+      </div>
+
+ <h2 align="center">🔝 Top Contributed Repo:</h2>
+ <div align="center">
+       <img src="https://github-contributor-stats.vercel.app/api?username=Iam-Ajinkya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">  </div>
+    <hr>
+    
+</div>
 </body>
 
 </html>
