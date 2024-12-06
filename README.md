@@ -3,8 +3,8 @@
 
 <body style="text-align: center; font-family: Arial, sans-serif;">
     <h1>Hi 👋, I'm Ajinkya Kamthe</h1>
-    <h2>Junior Penetration Tester</h2>
-    <p>As a Junior Penetration Tester, I specialize in identifying and mitigating security vulnerabilities to protect digital assets. I have hands-on experience with tools like Nmap, Metasploit, Burp Suite, and Wireshark, allowing me to conduct thorough network and web application security assessments. My background in BSc. COMPUTER SCIENCE has equipped me with a strong foundation in cybersecurity principles and practices. I am committed to continuous learning and staying updated with the latest security trends and techniques. Passionate about safeguarding systems, I aim to contribute to organizations by enhancing their security posture and preventing potential cyber threats.</p>
+    <h2>Cyber Security Profeshional</h2>
+    <p>As a Cyber Security Profeshional, I specialize in identifying and mitigating security vulnerabilities to protect digital assets. I have hands-on experience with tools like Nmap, Metasploit, Burp Suite, and Wireshark, allowing me to conduct thorough network and web application security assessments. My background in BSc. COMPUTER SCIENCE has equipped me with a strong foundation in cybersecurity principles and practices. I am committed to continuous learning and staying updated with the latest security trends and techniques. Passionate about safeguarding systems, I aim to contribute to organizations by enhancing their security posture and preventing potential cyber threats.</p>
     <p>🌍 I'm based in INDIA | PUNE</p>
     <p>✉️ You can contact me at <a href="mailto:ajinkyakamthe004@gmail.com">ajinkyakamthe004@gmail.com</a></p>
     <p>🧠 I'm learning Offensive Penetration Testing</p>
